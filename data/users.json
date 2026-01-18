@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "30306261300628",
+        "first_name": "Marwa",
+        "last_name": "Elhussieny",
+        "email": "marwa@gmail.com",
+        "password_hash": "1f65024bba51a5b7a80322d7d17c2505f91d2c3bc9793401515c1f3fa2f96ec5",
+        "mobile": "01093407900",
+        "status": "active",
+        "role": "Regular User"
+    }
+]

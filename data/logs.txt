@@ -1,0 +1,4 @@
+=== Task Management System Logs ===
+
+[2026-01-18 01:18:49] marwa@gmail.com - User registered | Role: Regular User
+[2026-01-18 01:19:02] marwa@gmail.com - User logged in

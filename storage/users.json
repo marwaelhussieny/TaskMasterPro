@@ -1,0 +1,24 @@
+[
+    {
+        "user_id": "30306261300628",
+        "first_name": "Marwa",
+        "last_name": "Elhussieny",
+        "email": "Marwa@gmail.com",
+        "password_hash": "1f65024bba51a5b7a80322d7d17c2505f91d2c3bc9793401515c1f3fa2f96ec5",
+        "mobile": "01093407900",
+        "status": "active",
+        "role": "Regular User",
+        "created_at": "2026-01-18T01:47:34.609639"
+    },
+    {
+        "user_id": "30306261300627",
+        "first_name": "Marwa",
+        "last_name": "Admin",
+        "email": "marwa@gmail.com",
+        "password_hash": "64bf18d770248db9b8b3a2ecd23f1905a7ba35e7ef6837f18d1f90a8063fc4ff",
+        "mobile": "01093407800",
+        "status": "active",
+        "role": "Admin",
+        "created_at": "2026-01-18T04:32:20.742534"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "task_id": "b830dc72-286c-46bf-86d0-fd02173e7e28",
+        "title": "python project",
+        "description": "◆ Features s Functionality \n1- Authentication System (20 points) \n✔ Registration: \n• ID Number (exactly 14 digits, unique) \n• First Name \n• Last Name \n• Email (validated email formula) \n• Password (Bouns Hashing Password  (using hashlib)) \n• Confirm Password \n• Mobile Number (validated for Egyptian numbers) \n• Status (active , inactive) \n• Role (Admin, Regular User) \n✔ Login: \n• Users can log in using their email and password after activation. \n• Only active users can log in \n✔ Profile Management: \n• Users can update their profile (name, phone number). (Email , id) can not edit \n2- Task Management System (30 points) \n✔ Create a New Task: \n• Task Title \n• Task Description (optional) \n• Priority Level (Low, Medium, High) \n• Task Status (To-Do, In Progress, Completed) \n• Due Date (must be in the future; validate the date format) \n• Assigned Owner (task creator) \n✔ View Tasks: \n• Display all tasks owned by the logged-in user. \n✔ Edit Tasks: \n• Users can update the title, description, priority, or due date of their own tasks. \n• Change task status to \"Completed\". \n✔ Delete Tasks: \n• Users can delete their own tasks. \n✔ Search Tasks: \n• Search for tasks using task title. \n✔ Sorting Tasks: \n• By due date, priority, status \n✔ Filter Tasks: \n• Filter tasks by priority, status, or due date. \n3. Roles & Permissions System (New Feature) \nAdmin Role \n• View all users, View all tasks, Delete any task, Deactivate users \nRegular User Role \n• Manage only their own tasks , View and edit personal profile \n4- (Bonus) Task Reminders s Notifications (5 points) \n✔ Users receive reminders (appear in the console when the user logs in) for: \n• Upcoming deadlines (within 24 hours). \n• Overdue tasks. \n✔ Notes \n• Store data in JSON/CSV format. \n• Never trust user input—validate all inputs and handle exceptions properly. \n• OOP Is required. \n• Separated Files and use Packages and modules. \n✔ Useful References: \nhttps://crawlbase.com/blog/how-to-read-json-files-in-python/ \nhttps://www.programiz.com/python-programming/json \nhttps://realpython.com/python-csv/ \nhttps://docs.python.org/3/library/csv.html",
+        "priority": "Medium",
+        "status": "Completed",
+        "due_date": "2026-01-18",
+        "owner_email": "Marwa@gmail.com",
+        "created_at": "2026-01-18T01:48:50.599653"
+    },
+    {
+        "task_id": "6b086d77-8ff2-415f-af8a-ec468be8b318",
+        "title": "operating systems",
+        "description": "workshop research",
+        "priority": "Medium",
+        "status": "To-Do",
+        "due_date": "2026-01-30",
+        "owner_email": "Marwa@gmail.com",
+        "created_at": "2026-01-18T01:51:06.175749"
+    },
+    {
+        "task_id": "4c8c6e95-7f85-4d47-8e95-0e43c6da7e23",
+        "title": "يا معين",
+        "description": "تيست تيست",
+        "priority": "Low",
+        "status": "In Progress",
+        "due_date": "2026-01-19",
+        "owner_email": "Marwa@gmail.com",
+        "created_at": "2026-01-18T02:22:17.022588"
+    }
+]
